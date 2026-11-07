@@ -1,0 +1,10 @@
+.env
+*.local.env
+*.key
+*.pem
+__pycache__/
+.venv/
+*.mkv
+*.mp4
+*.mov
+*.log
